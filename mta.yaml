@@ -1,0 +1,25 @@
+ID: just_inventory_app
+_schema-version: '2.0'
+version: 0.0.1
+
+modules:
+ - name: just_inventory_app_ui
+   type: html5
+   path: just_inventory_app_ui
+
+ 
+
+ 
+
+ 
+
+
+ - name: myui2
+   type: html5
+   path: myui2
+
+
+ - name: inventoryDemandSupplyAnalysis
+   type: html5
+   path: inventoryDemandSupplyAnalysis
+

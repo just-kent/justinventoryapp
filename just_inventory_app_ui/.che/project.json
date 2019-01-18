@@ -1,0 +1,1 @@
+{"type":"sap.html5","builders":{"default":"ui5-builder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"mockpreview\":{\"mockUri\":\"/here/goes/your/serviceUrl/local/\",\"metadataFilePath\":\"localService/metadata.xml\",\"mockRequestsFilePath\":\"\",\"loadJSONFiles\":false,\"loadCustomRequests\":false}}"]},"mixinTypes":["mtamodule"]}
